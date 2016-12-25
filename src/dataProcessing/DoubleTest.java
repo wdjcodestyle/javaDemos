@@ -8,6 +8,7 @@ public class DoubleTest {
 		double f = 111231.5585; 
 		double f2 = m1(f);
 		System.out.println("结果是——————————"+f2);
+		System.out.println("哈哈蛤,java我也会用git当SVN用啦,程序员福音!");
 	}
 
 	public static Double m1(Double f) {
