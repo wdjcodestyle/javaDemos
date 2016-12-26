@@ -10,6 +10,7 @@ public class DoubleTest {
 		System.out.println("结果是——————————"+f2);
 		System.out.println("哈哈蛤,java我也会用git当SVN用啦,程序员福音!");
 		System.out.println("你用mac的eclipse下载更新OK?");
+		System.out.println("我的mac的eclipse下载更新OK,谢谢!");
 	}
 
 	public static Double m1(Double f) {
